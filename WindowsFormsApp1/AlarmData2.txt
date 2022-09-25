@@ -1,0 +1,4 @@
+8:7:20,pm,True,2,Reflecion
+1:9:30,am,False,1,Reflecion
+6:50:10,pm,False,3,Reflecion
+11:40:57,PM,True,6,Beacon
